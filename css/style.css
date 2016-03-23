@@ -15,6 +15,13 @@ a {
   color: inherit;
 }
 
+.hidden-anchor {
+  display: block;
+  height: 96px;
+  margin-top: -96px;
+  visibility: hidden;
+}
+
 /*Header*/
 
 .main-header,
