@@ -1,0 +1,85 @@
+/*Body*/
+
+* {
+  /*border: 1px solid orange;*/
+}
+
+body {
+  font-family: 'Amatic SC', cursive;
+  width: 100%;
+}
+
+/*Header*/
+
+.main-header,
+.navigation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+}
+
+
+/*Navigation*/
+
+li {
+  list-style: none;
+}
+
+.navigation {
+  font-size: 2rem;
+}
+
+.icon {
+  padding-left: 1.5rem;
+}
+
+.twitter {
+  padding-left: 0
+}
+
+.icon:hover {
+  font-size: 2.0rem
+}
+
+.twitter:hover {
+  color: #00aced;
+}
+
+.facebook:hover {
+  color: #3b5998;
+}
+
+.github:hover {
+  color: #4183c4;
+}
+
+.linkedin:hover {
+  color: #007bb6;
+}
+
+.social-icons a {
+  color: black;
+}
+
+/*Main Content*/
+
+/*Footer*/
+
+/*Media Queries*/
+
+@media (min-width: 769px) {
+
+  .main-header {
+    height: 5rem;
+    justify-content: center;
+    position: fixed;
+    z-index: 999;
+  }
+
+  .navigation {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+}
