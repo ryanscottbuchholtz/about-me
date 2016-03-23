@@ -130,9 +130,15 @@ li {
   text-align: center;
 }
 
-.my-story p {
+.my-story h3 {
   font-size: 2rem;
   margin: 0;
+}
+
+.my-story p {
+  font-size: 1.5rem;
+  color: grey;
+  text-align: justify;
 }
 
 .wander,
@@ -196,6 +202,13 @@ li {
     flex-direction: row;
     justify-content: space-around;
     margin-bottom: 4rem;
+    margin-top: 2rem;
+  }
+
+  .my-story h3 {
+    border-top: 1px dashed orange;
+    padding-top: 1rem;
+    border-bottom: none;
   }
 
 
