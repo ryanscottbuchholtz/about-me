@@ -87,7 +87,7 @@ li {
   background: url("../assets/bm.jpg");
   background-size: cover;
   background-position: bottom center;
-  width: 100vw;
+  width: 100%;
   height: 90vh;
   color: #002957;
   display: flex;
@@ -144,7 +144,7 @@ li {
 /*Code Portfolio*/
 
 .code-portfolio {
-  width: 100vw;
+  width: 100%;
   height: 95vh;
   background-color: orange;
   display: flex;
@@ -184,59 +184,59 @@ li {
 }
 
 .image1 {
-  background: url("../assets/img_3049.jpg") no-repeat;
+  background: url("../assets/IMG_3049.jpg") no-repeat;
 }
 
 .image2 {
-  background: url("../assets/img_3051.jpg") no-repeat;
+  background: url("../assets/IMG_3051.jpg") no-repeat;
 }
 
 .image3 {
-  background: url("../assets/img_3052.jpg") no-repeat;
+  background: url("../assets/IMG_3052.jpg") no-repeat;
 }
 
 .image4 {
-  background: url("../assets/img_3055.jpg") no-repeat;
+  background: url("../assets/IMG_3055.jpg") no-repeat;
 }
 
 .image5 {
-  background: url("../assets/img_3056.jpg") no-repeat;
+  background: url("../assets/IMG_3056.jpg") no-repeat;
 }
 
 .image6 {
-  background: url("../assets/img_3059.jpg") no-repeat;
+  background: url("../assets/IMG_3059.jpg") no-repeat;
 }
 
 .image7 {
-  background: url("../assets/img_3060.jpg") no-repeat;
+  background: url("../assets/IMG_3060.jpg") no-repeat;
 }
 
 .image8 {
-  background: url("../assets/img_3063.jpg") no-repeat;
+  background: url("../assets/IMG_3063.jpg") no-repeat;
 }
 
 .image9 {
-  background: url("../assets/img_3065.jpg") no-repeat;
+  background: url("../assets/IMG_3065.jpg") no-repeat;
 }
 
 .image10 {
-  background: url("../assets/img_3066.jpg") no-repeat;
+  background: url("../assets/IMG_3066.jpg") no-repeat;
 }
 
 .image11 {
-  background: url("../assets/img_3068.jpg") no-repeat;
+  background: url("../assets/IMG_3068.jpg") no-repeat;
 }
 
 .image12 {
-  background: url("../assets/img_3069.jpg") no-repeat;
+  background: url("../assets/IMG_3069.jpg") no-repeat;
 }
 
 .image13 {
-  background: url("../assets/img_3070.jpg") no-repeat;
+  background: url("../assets/IMG_3070.jpg") no-repeat;
 }
 
 .image14 {
-  background: url("../assets/img_3080.jpg") no-repeat;
+  background: url("../assets/IMG_3080.jpg") no-repeat;
 }
 
 
